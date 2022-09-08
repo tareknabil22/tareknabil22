@@ -9,10 +9,7 @@ Skills:  JS / HTML / CSS
 - 🔭 I’m currently working on university 
 - 🌱 I’m currently learning web developing 
 - 👯 I’m looking to collaborate on git hub 
-- 💬 Ask me about web development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tareknabil22)  
+- 💬 Ask me about web development   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tareknabil22)](https://github.com/anuraghazra/github-readme-stats)
 
